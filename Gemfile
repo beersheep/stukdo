@@ -31,7 +31,7 @@ gem 'simple_form'
 
 gem 'devise', '~> 3.4.0'
 gem 'powder', '~> 0.3.0'
-
+gem 'auto_html', '~> 1.6.4'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
